@@ -1,1 +1,28 @@
-
+{
+  "HeaderInfo": {
+    "PlaylistName": "NPL",
+    "LastUpdate": "08:13 AM 17-10-2026",
+    "Telegram": "https://terobaukostream.pages.dev",
+    "Owner": "Tero Bau"
+  },
+  "Stats": {
+    "LiveCount": 0,
+    "UpcomingCount": 1
+  },
+  "Matches": [
+    {
+      "match_id": "NPL001",
+      "title": "NPL",
+      "synopsis": "NPL",
+      "status": "UPCOMING",
+      "time": "11:11",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.afbe0d93-5906-4234-81b4-33edd5166fdf/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR8LWYR",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq5oGVBhpq0rsVA2ZmYXN0bHkCeChmaWQ6MDFhMTQ3MmEtY2FhNS03MDRlLTgwZTQtOWJiMzY3NmJlMDMwGQE4oQWhAngzL2R1YzA4ZmV3c3ovb3V0L3YxLzQ0ZTQ3YmU5NmVhMzQ4MGI4ZDM4MWM3NGJhYTEwNDEyWCA5SYB68a6NJ5YDaAAQM0J3kWuAQ6CiKWsTC5PtjLAblg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/duc08fewsz/out/v1/44e47be96ea3480b8d381c74baa10412/7a333f5b-0978-4782-9755-29474106f4a6-cenc.mpd"
+      },
+      "drm_key": "20f066d20239ee0c147d4f14e76a6268:3d39c196f90f58a2119af9b90944ee45"
+    }
+  ]
+}
